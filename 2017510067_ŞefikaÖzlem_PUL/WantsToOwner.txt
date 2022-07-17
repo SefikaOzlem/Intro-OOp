@@ -1,0 +1,4 @@
+Eren;Beymen;İstanbul,Kadiköy,Caddebostan,10,4;05468963215;33;m;cat;0
+Beyza;Güneş;Eskişehir,İnönü,Eğitim,22,1;05213654896;28;f;dog;0
+Yasemin;Kenterci;İzmir,Buca,İstiklal,11,14;05326984123;24;f;cat;0
+Nagihan;Aksoy;Ankara,Polatlı,Mevlana,2,12;05468732157;33;f;cat;0

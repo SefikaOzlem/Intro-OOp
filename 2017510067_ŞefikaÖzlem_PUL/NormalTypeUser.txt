@@ -1,0 +1,4 @@
+Boran;Duran;Kütahya,Simav,Beyaz;05324578632;29;m
+Beren;Kitapçı;İstanbul,Beyoğlu,Nazım;05435694302;23;f
+Lerzan;Mutsuz;Bursa,Osmangazi,Siyah;05324354323;27;f
+Nalan;Kolsuz;Amasya,Elma,Sarı;05145354354;22;f

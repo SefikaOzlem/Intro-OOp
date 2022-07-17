@@ -1,0 +1,5 @@
+Nihal;Aksoy;İstanbul,Kartal,Manolya,12,14;05236987452;22;f;cat;0;0
+Necdet;Atasever;Ankara,Polatlı,İstiklal,12,3;05417896542;45;m;dog;0;0
+Levent;Şenyüz;Isparta,Merkez,Özkanlar,8,4;05329864125;21;m;cat;0;0
+Aslı;Güngör;Eskişehir,İnönü,Eğitim,6,9;05368921546;32;f;cat;0;0
+Özlem;Pul;İzmir,Buca,Tınaz,10,2;065657;21;f;cat;0;0

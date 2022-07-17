@@ -1,0 +1,3 @@
+Melek;Yüz;İzmir,Buca,Üçkuyular,3,5;05984712366;24;female;cat;0;false;10;5
+Mahmut;Tunç;Antalya,Muratpaşa,Kapalıyol,9,5;05984123687;29;male;cat;0;true;0;0
+Zeynep;Bal;Antalya,Muratpaşa,Kırcami,8,4;05789621455;36;female;cat;0;true;0;0
